@@ -1,6 +1,6 @@
 {
 	"ip":"minocraftsmp.aternos.me:36659",
-	"port": 36659,
+	"port": "36659",
 	"name": "Autobot24/7",
 	"auto-night-skip":"false",
 }
